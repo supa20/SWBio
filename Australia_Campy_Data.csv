@@ -1,0 +1,450 @@
+﻿id,region,disease,source,epidemiology,aspA,glnA,gltA,glyA,pgm,tkt,uncA,ST_MLST,clonal_complex_MLST
+74,,gastroenteritis,human stool,sporadic case,20,26,24,21,27,19,18,62,
+505,,gastroenteritis,human stool,sporadic case,4,73,10,4,1,7,1,128,ST-45 complex
+930,,gastroenteritis,human stool,sporadic case,2,4,5,2,7,1,5,66,ST-48 complex
+931,,gastroenteritis,human stool,sporadic case,2,1,1,3,2,1,5,21,ST-21 complex
+932,,gastroenteritis,human stool,sporadic case,9,25,2,10,95,3,6,70,ST-52 complex
+933,,gastroenteritis,human stool,sporadic case,2,4,5,2,7,1,5,66,ST-48 complex
+951,,gastroenteritis,human stool,sporadic case,2,1,1,2,7,1,5,492,ST-48 complex
+952,,gastroenteritis,human stool,sporadic case,10,1,59,19,10,7,5,493,
+953,,gastroenteritis,human stool,sporadic case,68,4,2,2,6,3,17,494,ST-61 complex
+1129,New South Wales,gastroenteritis,human stool,sporadic case,75,2,4,62,4,5,6,197,ST-257 complex
+1130,New South Wales,gastroenteritis,human stool,sporadic case,2,4,1,93,11,3,6,523,ST-658 complex
+1131,New South Wales,gastroenteritis,human stool,sporadic case,8,17,5,2,10,3,1,524,ST-353 complex
+1132,New South Wales,gastroenteritis,human stool,sporadic case,7,2,5,10,11,37,1,525,ST-607 complex
+1133,New South Wales,gastroenteritis,human stool,,2,15,4,27,13,80,23,526,
+1134,New South Wales,gastroenteritis,human stool,sporadic case,7,77,5,2,10,3,6,527,ST-353 complex
+1135,New South Wales,gastroenteritis,human stool,sporadic case,74,10,2,2,11,12,6,528,ST-354 complex
+1136,New South Wales,gastroenteritis,human stool,sporadic case,4,79,10,4,42,51,1,529,ST-45 complex
+1137,New South Wales,gastroenteritis,human stool,sporadic case,9,2,2,10,86,59,5,530,
+1138,New South Wales,gastroenteritis,human stool,sporadic case,2,71,5,62,11,67,6,531,
+1139,New South Wales,gastroenteritis,human stool,sporadic case,9,2,4,62,105,5,6,532,ST-257 complex
+1140,New South Wales,gastroenteritis,human stool,sporadic case,9,17,2,94,86,3,6,533,ST-52 complex
+1141,South Australia,gastroenteritis,human stool,general outbreak,7,78,42,95,106,12,8,534,
+1142,New South Wales,gastroenteritis,human stool,sporadic case,9,30,2,2,89,59,6,535,ST-460 complex
+1143,New South Wales,gastroenteritis,human stool,sporadic case,2,17,12,3,2,1,5,536,ST-21 complex
+1144,New South Wales,gastroenteritis,human stool,sporadic case,2,17,5,2,11,81,6,537,ST-353 complex
+1145,New South Wales,gastroenteritis,human stool,sporadic case,4,7,10,4,42,25,1,538,ST-45 complex
+1174,New South Wales,gastroenteritis,human stool,sporadic case,1,3,6,4,3,3,1,567,ST-22 complex
+1175,New South Wales,gastroenteritis,human stool,sporadic case,1,4,64,2,6,3,17,568,ST-61 complex
+1176,New South Wales,gastroenteritis,human stool,sporadic case,33,39,65,79,111,7,17,555,
+1177,New South Wales,gastroenteritis,human stool,sporadic case,2,80,5,3,2,3,5,569,ST-21 complex
+1280,New South Wales,gastroenteritis,human stool,sporadic case,7,2,5,2,10,3,6,5,ST-353 complex
+1281,New South Wales,gastroenteritis,human stool,sporadic case,2,1,1,3,2,1,5,21,ST-21 complex
+1282,New South Wales,gastroenteritis,human unspecified,sporadic case,4,7,10,1,1,7,1,25,ST-45 complex
+1283,New South Wales,gastroenteritis,human unspecified,sporadic case,1,2,3,4,5,9,3,42,ST-42 complex
+1284,New South Wales,gastroenteritis,human unspecified,sporadic case,4,7,10,4,1,7,1,45,ST-45 complex
+1285,New South Wales,gastroenteritis,human unspecified,sporadic case,2,4,1,2,7,1,5,48,ST-48 complex
+1286,South Australia,gastroenteritis,human unspecified,general outbreak,2,1,12,3,2,1,5,50,ST-21 complex
+1287,,gastroenteritis,human unspecified,sporadic case,7,17,2,15,23,3,12,51,ST-443 complex
+1288,South Australia,gastroenteritis,human unspecified,sporadic case,9,25,2,10,22,3,6,52,ST-52 complex
+1289,New South Wales,gastroenteritis,human unspecified,sporadic case,2,1,21,3,2,1,5,53,ST-21 complex
+1290,New South Wales,gastroenteritis,human unspecified,sporadic case,1,4,2,2,6,3,17,61,ST-61 complex
+1291,,gastroenteritis,human unspecified,sporadic case,9,25,2,10,95,3,6,70,ST-52 complex
+1292,New South Wales,gastroenteritis,human unspecified,sporadic case,14,21,2,10,86,3,6,161,ST-52 complex
+1293,New South Wales,gastroenteritis,human unspecified,sporadic case,2,1,5,3,2,3,5,190,ST-21 complex
+1294,New South Wales,gastroenteritis,human unspecified,sporadic case,2,4,5,2,2,1,5,227,ST-206 complex
+1295,New South Wales,gastroenteritis,human unspecified,sporadic case,2,7,10,4,1,7,1,233,ST-45 complex
+1296,New South Wales,gastroenteritis,human unspecified,sporadic case,9,2,4,62,4,5,6,257,ST-257 complex
+1297,New South Wales,gastroenteritis,human unspecified,sporadic case,14,45,2,4,19,3,6,312,ST-658 complex
+1298,New South Wales,gastroenteritis,human unspecified,sporadic case,8,10,2,2,11,12,6,354,ST-354 complex
+1299,New South Wales,gastroenteritis,human unspecified,sporadic case,7,71,5,62,11,67,6,449,ST-581 complex
+1300,New South Wales,gastroenteritis,human unspecified,sporadic case,2,1,2,3,2,3,5,451,ST-21 complex
+1666,,Guillain Barre Syndrome,human stool,sporadic case,1,3,6,4,3,3,3,22,ST-22 complex
+1667,,Guillain Barre Syndrome,human stool,sporadic case,1,3,6,4,3,3,3,22,ST-22 complex
+1668,,Guillain Barre Syndrome,human stool,sporadic case,1,3,6,4,3,3,3,22,ST-22 complex
+1669,,Guillain Barre Syndrome,human stool,sporadic case,1,3,6,4,3,3,3,22,ST-22 complex
+1670,,gastroenteritis,human stool,sporadic case,1,3,6,4,3,3,3,22,ST-22 complex
+1671,,Guillain Barre Syndrome,human stool,sporadic case,1,2,49,4,11,66,8,362,ST-362 complex
+1672,,gastroenteritis,human stool,sporadic case,7,2,5,2,10,3,6,5,ST-353 complex
+1673,,Guillain Barre Syndrome,human stool,sporadic case,1,2,3,4,5,9,3,42,ST-42 complex
+1674,,Guillain Barre Syndrome,human stool,sporadic case,1,3,6,4,3,3,3,22,ST-22 complex
+1675,,Guillain Barre Syndrome,human stool,sporadic case,7,2,5,10,11,37,1,525,ST-607 complex
+2398,,gastroenteritis,pig,,33,38,30,82,118,43,17,1016,ST-828 complex
+2399,,gastroenteritis,pig,,33,38,125,82,118,43,17,1069,ST-828 complex
+3239,,gastroenteritis,human stool,sporadic case,63,223,179,251,304,262,166,1840,
+4017,South Australia,gastroenteritis,human stool,sporadic case,2,1,12,3,89,1,5,2529,ST-21 complex
+4018,South Australia,gastroenteritis,human stool,sporadic case,2,1,12,3,2,1,159,2530,ST-21 complex
+4019,South Australia,gastroenteritis,human stool,sporadic case,24,17,2,15,10,3,12,2531,ST-443 complex
+4068,,gastroenteritis,human stool,sporadic case,1,2,3,4,6,9,3,2580,ST-42 complex
+4069,,,chicken offal or meat,,189,2,4,62,4,5,6,2581,ST-257 complex
+4431,South Australia,gastroenteritis,human stool,sporadic case,8,17,27,306,153,253,147,2892,
+4432,South Australia,,chicken offal or meat,,55,269,2,10,11,37,6,2893,
+4433,South Australia,gastroenteritis,human stool,sporadic case,9,53,5,10,11,3,3,2895,ST-574 complex
+4434,South Australia,gastroenteritis,human stool,sporadic case,8,10,2,2,11,315,6,2894,ST-354 complex
+4603,,,wild bird,environmental isolate,84,141,29,28,392,136,90,3038,ST-1287 complex
+4623,,,wild bird,environmental isolate,84,106,29,144,74,161,90,3058,ST-1287 complex
+4634,,,wild bird,environmental isolate,208,33,22,49,43,82,31,3069,ST-1275 complex
+5332,Queensland,,cattle,,33,39,66,174,104,43,41,1181,ST-828 complex
+7791,,,,,84,141,29,144,74,136,87,3983,ST-1287 complex
+7792,,,,,9,30,2,2,89,1,6,3984,ST-460 complex
+7793,,,,,33,39,30,79,188,47,17,3985,ST-828 complex
+7794,,,,,33,39,30,79,113,43,68,3986,ST-828 complex
+7795,,,,,33,39,66,79,113,77,17,3987,
+7813,,,,,250,70,22,18,134,106,5,4005,
+7890,,,environmental waters,environmental isolate,81,104,273,113,143,43,67,4081,
+7891,,,wild bird,environmental isolate,81,104,274,113,143,43,67,4082,
+7898,,,wild bird,environmental isolate,81,104,69,113,471,43,67,4089,
+7976,South East Queensland,,chicken,,33,39,66,174,104,43,41,1181,ST-828 complex
+7977,South East Queensland,,chicken,,81,155,69,113,276,257,67,2011,
+7987,South East Queensland,,chicken,,33,39,30,375,113,47,17,4175,ST-828 complex
+12863,,,,,33,39,30,79,113,47,68,5675,
+12864,,,,,33,39,66,174,104,58,41,5676,
+12865,,,,,33,39,66,174,104,436,41,5677,
+12866,,,,,33,110,134,82,210,35,17,5678,
+12867,,,,,85,100,22,18,133,86,149,5679,
+12868,,,,,181,53,2,53,312,3,3,5680,ST-574 complex
+12869,,,,,1,1,12,3,2,1,6,5681,ST-21 complex
+12870,,,,,1,1,1,3,6,1,3,5682,ST-21 complex
+12871,,,,,2,1,12,3,2,16,5,5683,ST-21 complex
+12872,,,,,2,4,1,372,7,1,5,5684,ST-48 complex
+12873,,,,,2,17,3,4,2,1,5,5685,ST-21 complex
+12874,,,,,7,4,1,68,86,58,6,5686,
+12875,,,,,8,1,5,3,2,3,5,5687,ST-21 complex
+12876,,,,,8,17,5,2,7,3,1,5688,ST-353 complex
+12877,,,,,9,4,1,93,11,3,6,5689,
+12878,,,,,1,25,2,2,6,3,5,5690,ST-61 complex
+12879,,,,,2,1,2,4,19,3,6,5691,ST-658 complex
+13316,,,,,237,165,254,340,433,485,349,5704,
+13317,,,,,2,4,84,459,126,25,57,5705,
+13318,,,,,18,33,22,460,586,486,6,5706,
+18391,South east Queensland,,chicken,,8,10,1,2,11,12,6,5820,ST-354 complex
+18392,South east Queensland,,chicken,,8,10,2,2,11,12,6,354,ST-354 complex
+18393,,,human unspecified,,2,4,1,2,11,1,5,5821,ST-48 complex
+18394,,,human unspecified,,9,2,5,2,11,5,6,2947,ST-257 complex
+18395,,,human unspecified,,14,21,2,10,23,3,6,4263,ST-52 complex
+18396,,,human unspecified,,9,25,2,10,22,3,6,52,ST-52 complex
+18397,Victoria,,chicken,,9,25,2,10,7,3,6,5822,ST-52 complex
+18398,,,human unspecified,,7,17,2,15,11,3,12,859,ST-443 complex
+18399,,,human unspecified,,9,2,4,62,86,5,6,5823,ST-257 complex
+18400,,,human unspecified,,8,10,2,2,86,12,6,5824,ST-354 complex
+18401,,,human unspecified,,7,4,1,2,22,1,5,5825,ST-48 complex
+18402,,,human unspecified,,2,1,5,3,22,3,5,5826,ST-21 complex
+18403,South east Queensland,,chicken,,14,21,2,10,7,3,6,5827,ST-52 complex
+18404,,,human unspecified,,33,1,4,3,7,1,5,5828,ST-21 complex
+18405,,,human unspecified,,2,4,1,2,4,1,5,2783,ST-48 complex
+18406,,,human unspecified,,7,2,5,2,10,3,6,5,ST-353 complex
+18407,,,human unspecified,,7,17,2,15,23,3,12,51,ST-443 complex
+18408,,,human unspecified,,2,4,10,2,7,1,5,1518,ST-48 complex
+18409,,,human unspecified,,2,4,156,2,7,1,5,5829,ST-48 complex
+18410,Victoria,,chicken,,2,4,1,2,7,1,5,48,ST-48 complex
+18411,Victoria,,chicken,,33,4,1,2,10,1,5,5830,ST-48 complex
+18412,Victoria,,chicken,,7,71,5,62,4,67,6,5831,ST-581 complex
+18413,Victoria,,chicken,,7,2,5,10,11,37,1,525,ST-607 complex
+18414,Victoria,,chicken,,2,4,84,48,131,25,57,5832,
+18415,Victoria,,chicken,,2,4,1,2,7,1,5,48,ST-48 complex
+18416,South east Queensland,,chicken,,33,39,30,79,188,47,17,3985,ST-828 complex
+18417,South east Queensland,,chicken,,33,39,30,79,188,47,17,3985,ST-828 complex
+18418,South east Queensland,,chicken,,33,39,30,79,188,47,17,3985,ST-828 complex
+18419,,,human unspecified,,33,39,30,79,188,47,17,3985,ST-828 complex
+18420,South east Queensland,,chicken,,33,39,30,79,188,47,17,3985,ST-828 complex
+18421,South east Queensland,,chicken,,33,39,30,79,188,47,17,3985,ST-828 complex
+18422,South east Queensland,,chicken,,33,39,30,79,188,47,17,3985,ST-828 complex
+18423,South east Queensland,,chicken,,33,39,30,79,188,47,17,3985,ST-828 complex
+18424,South east Queensland,,chicken,,33,39,30,19,188,47,17,5833,ST-828 complex
+18425,South east Queensland,,chicken,,33,39,30,79,188,47,17,3985,ST-828 complex
+18426,,,human unspecified,,33,39,66,174,104,53,41,5834,
+18427,,,human unspecified,,33,39,66,174,104,43,41,1181,ST-828 complex
+19139,Queensland,,human stool,,2,17,2,3,2,1,5,883,ST-21 complex
+19140,Queensland,,human stool,,2,21,248,10,151,3,6,5993,
+19141,Queensland,,human stool,,8,10,248,2,11,12,6,5994,ST-354 complex
+19142,Queensland,,chicken offal or meat,,2,71,95,62,11,67,6,5995,
+19595,Queensland,,human stool,,2,1,12,3,2,436,5,5996,ST-21 complex
+19596,Queensland,,human stool,,14,21,248,10,86,3,6,5997,
+21601,,carrier,wild bird,,98,122,98,125,180,150,113,1342,
+21602,,carrier,wild bird,,98,122,98,125,74,150,113,3067,
+21603,,carrier,wild bird,,35,2,9,51,8,46,21,3068,ST-682 complex
+21604,,carrier,wild bird,,99,128,91,125,170,146,111,1324,
+21792,,carrier,wild bird,,10,33,22,49,43,82,31,637,ST-1275 complex
+21793,,carrier,wild bird,,205,33,22,49,43,9,87,3063,ST-1275 complex
+21794,,carrier,wild bird,,10,33,22,49,43,82,31,637,ST-1275 complex
+21795,,carrier,wild bird,,10,33,22,49,43,82,31,637,ST-1275 complex
+21796,,carrier,wild bird,,84,106,29,28,74,183,87,3037,ST-1287 complex
+21797,,carrier,wild bird,,10,33,22,49,74,9,31,3064,ST-1275 complex
+21798,,carrier,wild bird,,27,33,22,49,389,317,87,3048,ST-1275 complex
+21799,,carrier,wild bird,,27,33,95,49,43,9,31,3049,ST-1275 complex
+21800,,carrier,wild bird,,2,1,12,3,2,1,5,50,ST-21 complex
+21801,,carrier,wild bird,,27,33,22,49,43,9,31,1223,ST-1275 complex
+21802,,carrier,wild bird,,37,253,75,48,74,25,90,3065,
+21803,,carrier,wild bird,,27,272,22,49,43,9,31,3047,ST-1275 complex
+21804,,carrier,wild bird,,205,33,22,49,74,9,90,3066,
+21805,,carrier,wild bird,,84,33,22,49,43,9,31,3061,ST-1275 complex
+21806,,carrier,wild bird,,2,1,12,3,2,1,5,50,ST-21 complex
+21807,,carrier,wild bird,,27,33,95,49,43,9,31,3049,ST-1275 complex
+21808,,carrier,wild bird,,27,33,22,49,43,317,87,3051,ST-1275 complex
+21809,,carrier,wild bird,,10,33,22,49,43,82,31,637,ST-1275 complex
+21810,,carrier,wild bird,,27,33,22,49,74,9,31,3060,ST-1275 complex
+21811,,carrier,wild bird,,27,33,22,49,43,9,31,1223,ST-1275 complex
+21812,,carrier,wild bird,,37,253,75,48,392,25,3,3062,
+21813,,carrier,wild bird,,2,1,29,28,58,25,58,1332,ST-1332 complex
+21996,,carrier,wild bird,,84,148,29,144,74,136,90,3056,ST-1287 complex
+21997,,carrier,wild bird,,84,148,29,28,74,136,90,1328,ST-1287 complex
+21998,,carrier,wild bird,,84,106,29,28,74,136,90,1287,ST-1287 complex
+21999,,carrier,wild bird,,84,141,29,144,74,161,87,3070,
+22000,,carrier,wild bird,,84,106,29,28,43,99,87,3046,ST-1287 complex
+22001,,carrier,wild bird,,84,141,29,144,74,183,31,3057,
+22002,,carrier,wild bird,,84,106,29,28,74,183,87,3037,ST-1287 complex
+22003,,carrier,wild bird,,84,141,29,144,74,183,90,1352,ST-1287 complex
+22004,,carrier,wild bird,,84,141,29,144,74,183,231,3050,
+22005,,carrier,wild bird,,84,141,29,144,43,183,31,3044,
+22006,,carrier,wild bird,,84,106,29,28,74,183,87,3037,ST-1287 complex
+22007,,carrier,wild bird,,84,106,29,28,74,183,87,3037,ST-1287 complex
+22008,,carrier,wild bird,,84,106,29,144,74,183,87,3053,ST-1287 complex
+22009,,carrier,wild bird,,84,106,29,28,74,99,87,3042,ST-1287 complex
+22010,,carrier,wild bird,,84,141,29,144,180,183,231,3041,
+22011,,carrier,wild bird,,84,141,29,144,74,183,90,1352,ST-1287 complex
+22012,,carrier,wild bird,,84,141,29,144,74,183,231,3050,
+22013,,carrier,wild bird,,84,141,29,28,74,136,90,1317,ST-1287 complex
+22014,,carrier,wild bird,,84,141,29,144,74,183,3,3045,
+22015,,carrier,wild bird,,84,141,29,28,74,136,232,3039,ST-1287 complex
+22016,,carrier,wild bird,,84,106,29,28,74,136,116,1253,ST-1287 complex
+22017,,carrier,wild bird,,84,141,29,144,390,183,231,3055,
+22018,,carrier,wild bird,,84,106,29,28,43,183,31,3040,ST-1287 complex
+22019,,carrier,wild bird,,84,141,29,28,74,136,232,3039,ST-1287 complex
+22020,,carrier,wild bird,,84,141,29,144,390,183,231,3055,
+22021,,carrier,wild bird,,84,141,29,28,74,136,232,3039,ST-1287 complex
+22022,,carrier,wild bird,,84,106,29,144,74,136,90,3052,ST-1287 complex
+22023,,carrier,wild bird,,84,106,29,28,43,183,31,3040,ST-1287 complex
+22024,,carrier,wild bird,,84,106,29,28,74,136,116,1253,ST-1287 complex
+22025,,carrier,wild bird,,84,141,29,144,74,183,90,1352,ST-1287 complex
+22026,,carrier,wild bird,,84,141,29,28,74,136,90,1317,ST-1287 complex
+22027,,carrier,wild bird,,84,106,29,28,74,183,87,3037,ST-1287 complex
+22028,,carrier,wild bird,,84,106,29,28,74,183,87,3037,ST-1287 complex
+22029,,carrier,wild bird,,84,141,29,28,74,136,232,3039,ST-1287 complex
+22030,,carrier,wild bird,,84,141,29,28,74,136,232,3039,ST-1287 complex
+22031,,carrier,wild bird,,84,141,29,144,74,183,231,3050,
+22032,,carrier,wild bird,,84,148,29,144,74,183,90,3054,ST-1287 complex
+22033,,carrier,wild bird,,84,141,29,144,74,183,90,1352,ST-1287 complex
+22034,,carrier,wild bird,,84,141,29,28,74,136,90,1317,ST-1287 complex
+22035,,carrier,wild bird,,84,106,29,28,74,136,116,1253,ST-1287 complex
+22036,,carrier,wild bird,,84,141,29,28,74,161,90,3059,ST-1287 complex
+22037,,carrier,wild bird,,84,141,29,144,74,183,90,1352,ST-1287 complex
+22038,,carrier,wild bird,,84,141,29,144,180,183,113,3043,
+22039,,carrier,wild bird,,84,106,29,144,74,183,87,3053,ST-1287 complex
+22040,,carrier,wild bird,,84,106,29,28,43,183,31,3040,ST-1287 complex
+22041,,carrier,wild bird,,84,106,29,28,74,183,87,3037,ST-1287 complex
+29898,South Australia,gastroenteritis,human stool,sporadic case,166,2,27,10,151,3,1,7323,
+29899,South Australia,gastroenteritis,human stool,sporadic case,1,4,2,2,720,3,17,7324,ST-61 complex
+29900,South Australia,gastroenteritis,human stool,sporadic case,7,2,45,10,19,569,1,7325,
+29901,South Australia,gastroenteritis,human stool,sporadic case,7,10,2,10,11,3,3,7326,ST-574 complex
+30717,Queensland,,,environmental isolate,2,15,4,48,360,25,64,8056,
+30720,Queensland,gastroenteritis,human stool,sporadic case,10,27,89,44,10,132,7,8057,ST-403 complex
+32580,Victoria,,wild bird,,1,6,5,176,359,7,3,7670,
+32581,Victoria,,wild bird,,1,6,5,176,359,7,3,7670,
+46559,,gastroenteritis,human stool,sporadic case,2,1,12,3,2,37,5,8172,ST-21 complex
+47808,Queensland,,chicken,,37,106,4,27,127,29,23,8228,ST-692 complex
+56185,,gastroenteritis,human stool,,2,1,12,3,2,1,547,8470,ST-21 complex
+56186,,gastroenteritis,human stool,,1,2,3,4,5,9,319,8436,ST-42 complex
+77409,,,chicken,,,,,,,,,,
+77410,,,chicken,,33,39,30,375,113,77,17,9417,ST-828 complex
+77411,,,chicken,,33,39,30,79,189,85,17,9418,ST-828 complex
+77412,,,chicken,,33,39,65,79,113,47,17,9419,
+77413,,,chicken,,33,39,65,79,113,77,17,9420,
+77414,,,chicken,,33,39,65,82,104,56,41,9421,ST-828 complex
+77415,,,chicken,,8,17,5,2,2,3,26,9422,ST-353 complex
+77416,,,chicken,,81,104,69,691,143,43,67,9423,
+77417,,,chicken,,181,17,218,10,11,3,6,9424,
+77418,,,chicken,,7,688,5,2,10,1,6,9425,ST-353 complex
+77419,,,chicken,,7,688,5,2,10,3,6,9426,ST-353 complex
+77420,,,chicken,,7,688,5,2,10,3,12,9427,ST-353 complex
+77421,,,chicken,,7,71,5,190,11,67,6,9428,
+77422,,,chicken,,7,71,5,62,11,739,6,9429,ST-581 complex
+77423,,,chicken,,8,17,5,2,2,3,26,9422,ST-353 complex
+77424,,,chicken,,8,71,5,2,10,3,6,9431,ST-353 complex
+77425,,,chicken,,8,71,5,2,159,3,6,9432,ST-353 complex
+77426,,,chicken,,33,39,66,174,952,43,41,9436,
+77427,,,chicken,,506,39,65,79,113,47,17,9430,
+77428,,,chicken,,121,692,590,768,950,744,609,9433,
+77429,,,chicken,,128,337,592,769,951,745,611,9434,
+77430,,,chicken,,2,110,30,771,,164,612,,
+77431,,,chicken,,33,39,30,770,104,746,17,9435,ST-828 complex
+77432,,,chicken,,121,433,550,220,707,673,173,8714,
+77433,,,chicken,,33,39,65,79,113,47,17,9419,
+79344,Victoria,,environmental waters,,81,104,69,691,143,43,67,9423,
+79345,Victoria,,environmental waters,,81,159,147,168,234,43,98,1245,
+79346,Victoria,,environmental waters,,523,709,605,789,984,744,633,9789,
+79347,Victoria,,wild bird,,121,710,606,789,985,744,94,9790,
+79348,Victoria,,wild bird,,121,397,605,791,986,208,580,9791,
+79349,Victoria,,environmental waters,,121,397,608,792,987,576,634,9792,
+79350,Victoria,,wild bird,,523,91,550,220,707,673,173,9793,
+79351,Victoria,,environmental waters,,130,86,87,794,746,129,465,9794,
+79352,Victoria,,environmental waters,,81,104,69,113,143,43,67,1764,
+79353,Victoria,,environmental waters,,130,712,609,612,989,280,636,9795,
+79354,Victoria,,environmental waters,,121,433,610,795,707,673,637,9796,
+79355,Victoria,,environmental waters,,121,692,606,796,990,208,638,9797,
+79356,Victoria,,environmental waters,,523,215,500,782,1001,776,324,9798,
+79357,Victoria,,environmental waters,,130,86,408,612,471,777,465,9799,
+79358,Victoria,,environmental waters,,121,713,204,797,992,208,639,9800,
+79359,Victoria,,environmental waters,,81,104,69,113,143,778,640,9801,
+79360,Victoria,,wild bird,,130,535,458,271,989,129,641,9802,
+79361,Victoria,,environmental waters,,81,104,69,113,143,43,67,1764,
+79362,Victoria,,environmental waters,,81,104,69,113,143,43,67,1764,
+79363,Victoria,,environmental waters,,81,104,69,113,143,43,67,1764,
+79364,Victoria,,environmental waters,,429,116,612,691,994,779,465,9803,
+79365,Victoria,,soil,,523,714,608,798,556,776,324,9804,
+79366,Victoria,,environmental waters,,136,104,69,113,143,277,640,9805,
+79367,Victoria,,environmental waters,,429,715,520,612,994,129,465,9806,
+79368,Victoria,,environmental waters,,81,104,69,113,143,43,67,1764,
+79369,Victoria,,environmental waters,,528,116,520,799,996,129,532,9807,
+79370,Victoria,,environmental waters,,121,711,614,800,997,776,643,9808,
+79371,Victoria,,environmental waters,,429,717,520,221,471,129,532,9809,
+79372,Victoria,,environmental waters,,529,718,520,691,628,129,76,9810,
+79373,Victoria,,environmental waters,,81,116,520,221,870,129,465,9811,
+79374,Victoria,,environmental waters,,429,116,458,612,998,129,532,9812,
+79375,Victoria,,environmental waters,,429,344,615,271,870,280,532,9813,
+79376,Victoria,,environmental waters,,81,104,69,113,143,43,67,1764,
+79377,Victoria,,environmental waters,,528,116,520,799,996,129,532,9807,
+79378,Victoria,,environmental waters,,121,719,608,792,987,576,634,9814,
+79379,Victoria,,environmental waters,,121,691,575,434,1001,744,638,9815,
+79380,Victoria,,environmental waters,,454,720,401,205,1002,650,646,9816,
+79381,Victoria,,human stool,,33,39,66,174,104,43,41,1181,ST-828 complex
+79382,Victoria,,human stool,,33,39,66,174,104,43,41,1181,ST-828 complex
+79383,Victoria,,human stool,,33,39,66,174,104,43,41,1181,ST-828 complex
+79384,Victoria,,wild bird,,1,6,5,176,1003,293,3,9817,
+79385,Victoria,,wild bird,,531,2,34,803,1004,293,3,9818,
+79386,Victoria,,wild bird,,531,2,34,803,1004,293,3,9818,
+79387,Victoria,,wild bird,,531,2,34,803,1004,293,3,9818,
+79388,Victoria,,environmental waters,,10,45,617,803,1005,293,647,9819,
+79389,Victoria,,wild bird,,1,6,5,176,1003,293,3,9817,
+79390,Victoria,,environmental waters,,4,73,10,4,1,7,1,128,ST-45 complex
+79391,Victoria,,environmental waters,,1,6,5,176,1003,293,3,9817,
+79392,Victoria,,wild bird,,1,6,5,176,1003,293,3,9817,
+79393,Victoria,,wild bird,,1,6,5,176,1003,293,3,9817,
+79394,Victoria,,wild bird,,1,6,5,176,1003,293,3,9817,
+79395,Victoria,,wild bird,,1,6,5,92,261,7,3,9820,
+79396,Victoria,,human stool,,7,17,2,15,23,3,12,51,ST-443 complex
+79397,Victoria,,human stool,,8,17,2,2,11,12,6,1723,ST-354 complex
+79398,Victoria,,human stool,,4,7,10,4,42,7,1,137,ST-45 complex
+79399,Victoria,,human stool,,4,7,10,4,42,7,1,137,ST-45 complex
+79400,Victoria,,human stool,,2,1,12,3,2,1,5,50,ST-21 complex
+79401,Victoria,,human stool,,18,2,618,805,1,775,16,9821,
+79402,Victoria,,human stool,,2,1,21,3,4,1,5,9822,ST-21 complex
+79403,Victoria,,human stool,,2,1,12,3,2,1,5,50,ST-21 complex
+79404,Victoria,,human stool,,4,7,10,4,1,7,1,45,ST-45 complex
+79405,Victoria,,human stool,,2,1,1,3,2,1,5,21,ST-21 complex
+79406,Victoria,,human stool,,2,4,5,2,2,1,5,227,ST-206 complex
+79407,Victoria,,human stool,,2,4,2,4,19,3,6,658,ST-658 complex
+79408,Victoria,,human stool,,4,7,10,4,42,25,1,538,ST-45 complex
+79409,Victoria,,human stool,,1,3,6,4,3,3,1,567,ST-22 complex
+79410,Victoria,,human stool,,8,17,5,2,11,3,1,9823,ST-607 complex
+79411,Victoria,,human stool,,3,1,5,17,11,11,6,49,ST-49 complex
+79412,Victoria,,wild bird,,525,711,204,793,988,744,635,9824,
+79430,,,chicken,,2,110,30,82,188,164,79,9835,
+80242,Victoria,,environmental waters,environmental isolate,18,33,22,18,979,771,47,9906,
+80243,Victoria,,environmental waters,environmental isolate,464,22,22,18,935,101,60,9907,
+80244,Victoria,gastroenteritis,human stool,sporadic case,4,7,10,4,42,794,1,9908,ST-45 complex
+80245,Victoria,,environmental waters,environmental isolate,121,726,588,507,990,208,652,9909,
+80246,Victoria,,environmental waters,environmental isolate,121,726,588,789,990,208,652,9910,
+80247,Victoria,,environmental waters,environmental isolate,121,727,606,768,556,795,652,9911,
+80248,Victoria,,environmental waters,environmental isolate,524,397,330,816,992,208,324,9912,
+80249,Victoria,,environmental waters,environmental isolate,121,104,407,434,556,482,94,9913,
+80250,Victoria,,environmental waters,environmental isolate,523,104,159,215,820,245,367,9914,
+80251,Victoria,,environmental waters,environmental isolate,121,104,407,434,556,482,94,9913,
+80252,Victoria,,environmental waters,environmental isolate,121,104,624,218,828,793,94,9916,
+80253,Victoria,,environmental waters,environmental isolate,121,104,625,789,1015,795,324,9917,
+80254,Victoria,,environmental waters,environmental isolate,121,104,625,789,1015,795,324,9917,
+80255,Victoria,,environmental waters,environmental isolate,121,104,588,789,990,208,654,9919,
+80256,Victoria,,environmental waters,environmental isolate,536,104,69,691,143,796,67,9920,
+80257,Victoria,,environmental waters,environmental isolate,121,104,626,817,317,797,94,9921,
+80258,Victoria,,environmental waters,environmental isolate,121,104,575,789,992,208,94,9922,
+80259,Victoria,,environmental waters,environmental isolate,523,104,588,793,987,482,324,9923,
+80260,Victoria,,environmental waters,environmental isolate,523,104,588,793,987,482,324,9923,
+80261,Victoria,,environmental waters,environmental isolate,121,104,575,789,992,208,94,9922,
+80262,Victoria,,environmental waters,environmental isolate,335,104,627,695,987,482,655,9926,
+80263,Victoria,,environmental waters,environmental isolate,81,104,69,113,143,43,367,9927,
+80264,Victoria,,environmental waters,environmental isolate,81,104,69,113,143,43,152,9928,
+80265,Victoria,,environmental waters,environmental isolate,121,104,625,789,1015,795,324,9917,
+80266,Victoria,,environmental waters,environmental isolate,121,104,625,789,1015,795,324,9917,
+80267,Victoria,,environmental waters,environmental isolate,128,104,199,818,1016,799,656,9931,
+80268,Victoria,,environmental waters,environmental isolate,147,104,331,816,1017,208,638,9932,
+80269,Victoria,,environmental waters,environmental isolate,130,104,520,612,1018,779,465,9933,
+80270,Victoria,,environmental waters,environmental isolate,81,104,628,113,143,43,67,9934,
+80271,Victoria,,environmental waters,environmental isolate,136,104,69,113,1019,246,152,9935,
+80272,Victoria,,environmental waters,environmental isolate,429,104,520,819,1020,280,76,9936,
+80273,Victoria,,environmental waters,environmental isolate,217,104,629,434,1015,658,657,9937,
+80274,Victoria,,environmental waters,environmental isolate,121,104,630,789,1021,482,658,9938,
+80275,Victoria,,environmental waters,environmental isolate,128,104,547,347,1022,658,580,9939,
+80276,Victoria,,environmental waters,environmental isolate,121,104,629,820,987,646,94,9940,
+80277,Victoria,,environmental waters,environmental isolate,121,104,451,659,1023,208,485,9941,
+80278,Victoria,gastroenteritis,human stool,sporadic case,128,104,199,818,1016,799,656,9931,
+80279,Victoria,,environmental waters,environmental isolate,335,215,195,815,1024,707,653,9918,
+80280,South Australia,gastroenteritis,human stool,sporadic case,7,36,5,10,11,37,1,9965,
+80281,Victoria,gastroenteritis,human stool,sporadic case,8,2,2,212,153,253,660,9966,
+80282,Western Australia,gastroenteritis,human stool,sporadic case,9,17,2,2,153,3,1,9967,ST-464 complex
+80283,Western Australia,gastroenteritis,human stool,sporadic case,7,15,57,10,550,34,35,9968,
+80284,Western Australia,gastroenteritis,human stool,sporadic case,33,39,65,375,113,47,17,9969,
+105462,Australian Capital Territory,,chicken offal or meat,,4,7,10,4,953,7,1,10136,ST-45 complex
+105463,Australian Capital Territory,,beef offal or meat,,1,4,2,71,6,3,17,10137,ST-61 complex
+105464,Australian Capital Territory,,chicken offal or meat,,104,7,10,4,909,7,1,10134,ST-45 complex
+105465,New South Wales,,chicken offal or meat,,7,2,5,10,19,3,1,10123,ST-607 complex
+105466,New South Wales,,chicken offal or meat,,4,7,593,4,42,7,1,10124,ST-45 complex
+105467,New South Wales,,lamb offal or meat,,2,173,12,3,2,1,5,10125,ST-21 complex
+105468,New South Wales,,chicken offal or meat,,7,71,5,10,11,739,6,10126,
+105469,New South Wales,,chicken offal or meat,,9,2,4,62,4,747,6,10127,ST-257 complex
+105470,New South Wales,,pork offal or meat,,2,312,1,3,2,1,5,10140,ST-21 complex
+105471,New South Wales,,chicken offal or meat,,104,7,10,4,909,7,1,10134,ST-45 complex
+105472,Queensland,,chicken offal or meat,,7,2,5,10,19,3,1,10123,ST-607 complex
+105473,Queensland,,chicken offal or meat,,2,52,57,27,107,25,23,10129,
+105474,Queensland,,chicken offal or meat,,14,2,2,10,86,3,6,10130,ST-52 complex
+105475,Queensland,,chicken offal or meat,,9,2,4,62,4,747,6,10127,ST-257 complex
+105476,Queensland,,chicken offal or meat,,14,2,2,10,86,3,6,10130,ST-52 complex
+105477,Queensland,,chicken offal or meat,,17,7,10,4,1,7,1,10139,ST-45 complex
+105478,Queensland,,chicken offal or meat,,14,2,2,10,86,3,6,10130,ST-52 complex
+105479,New South Wales,gastroenteritis,human stool,,17,7,10,4,1,7,1,10139,ST-45 complex
+105480,Queensland,gastroenteritis,human stool,,14,2,2,10,86,3,6,10130,ST-52 complex
+105481,Queensland,gastroenteritis,human stool,,14,2,2,10,86,3,6,10130,ST-52 complex
+105482,Queensland,gastroenteritis,human stool,,7,77,5,2,119,3,6,10143,ST-353 complex
+105483,Queensland,gastroenteritis,human stool,,9,2,4,62,4,747,6,10127,ST-257 complex
+105484,Queensland,gastroenteritis,human stool,,7,77,5,2,119,3,6,10143,ST-353 complex
+105485,Queensland,gastroenteritis,human stool,,18,70,22,18,134,74,47,10146,
+105486,Queensland,gastroenteritis,human stool,,14,2,2,10,86,3,6,10130,ST-52 complex
+105487,Queensland,gastroenteritis,human stool,,14,2,2,10,86,3,6,10130,ST-52 complex
+105488,Queensland,gastroenteritis,human stool,,14,2,2,10,86,3,6,10130,ST-52 complex
+105489,Queensland,gastroenteritis,human stool,,9,2,4,62,4,747,6,10127,ST-257 complex
+105490,Queensland,gastroenteritis,human stool,,7,77,5,2,119,3,6,10143,ST-353 complex
+105491,Queensland,gastroenteritis,human stool,,18,22,78,18,134,86,47,10152,
+105492,Victoria,gastroenteritis,human stool,,2,1,12,772,2,1,5,10133,ST-21 complex
+105493,Victoria,gastroenteritis,human stool,,104,7,10,4,909,7,1,10134,ST-45 complex
+105494,Victoria,gastroenteritis,human stool,,2,1,12,772,2,1,5,10133,ST-21 complex
+105495,Victoria,gastroenteritis,human stool,,7,71,5,62,11,739,614,10155,
+105496,Victoria,gastroenteritis,human stool,,7,71,5,62,11,739,614,10155,
+105497,Victoria,,dog,,7,2,5,10,19,3,1,10123,ST-607 complex
+105498,New South Wales,,pork offal or meat,environmental isolate,539,17,5,2,2,3,26,10128,ST-353 complex
+105499,Queensland,,human stool,sporadic case,7,172,21,49,936,224,665,10131,
+105500,Queensland,,human stool,sporadic case,8,1,5,826,2,3,5,10132,
+105501,Queensland,,human stool,sporadic case,10,738,105,62,120,76,1,10135,
+105502,Queensland,,human stool,sporadic case,2,739,5,3,2,1,5,10138,ST-21 complex
+105503,Australian Capital Territory,,chicken offal or meat,environmental isolate,2,110,30,79,188,164,79,10151,
+105504,New South Wales,,pork offal or meat,environmental isolate,224,38,44,82,113,85,36,10141,
+105505,New South Wales,,pork offal or meat,environmental isolate,33,38,44,82,104,85,36,10142,
+105506,New South Wales,,pork offal or meat,environmental isolate,224,38,44,82,104,85,36,10154,
+105507,New South Wales,,chicken offal or meat,environmental isolate,33,110,30,79,188,47,17,10156,
+105508,Queensland,,chicken offal or meat,environmental isolate,33,39,65,79,188,47,17,10144,
+105509,Queensland,,chicken offal or meat,environmental isolate,33,39,30,82,104,746,17,10145,ST-828 complex
+105510,Queensland,,chicken offal or meat,environmental isolate,33,39,65,79,188,47,17,10144,
+105511,Queensland,,chicken offal or meat,environmental isolate,130,86,87,612,871,129,465,10148,
+105512,Queensland,,pork offal or meat,environmental isolate,123,166,144,262,230,191,121,10159,
+105513,Queensland,,pork offal or meat,environmental isolate,53,38,30,81,118,323,36,10160,
+105514,Victoria,,chicken offal or meat,environmental isolate,33,39,65,79,113,85,17,10150,
+105515,Victoria,,chicken offal or meat,environmental isolate,128,729,199,818,1016,799,656,10162,
+105516,Victoria,,chicken offal or meat,environmental isolate,128,433,366,486,707,501,173,10163,
+105517,New South Wales,gastroenteritis,human stool,sporadic case,121,691,575,797,985,482,638,10153,
+105518,Queensland,gastroenteritis,human stool,sporadic case,2,110,30,82,188,164,17,10157,
+105519,Queensland,gastroenteritis,human stool,sporadic case,33,110,30,82,104,44,17,10158,ST-828 complex
+105520,Victoria,gastroenteritis,human stool,sporadic case,121,633,175,692,829,576,545,10149,
+105521,Victoria,gastroenteritis,human stool,sporadic case,32,39,30,82,188,43,139,10161,ST-828 complex
+105522,Australian Capital Territory,,pork offal or meat,environmental isolate,33,153,30,828,104,47,17,10167,ST-828 complex
+105523,New South Wales,,chicken offal or meat,environmental isolate,121,91,635,829,556,208,324,10170,
+105524,New South Wales,,pork offal or meat,environmental isolate,33,39,30,79,1037,43,17,10171,ST-828 complex
+105525,New South Wales,,pork offal or meat,environmental isolate,33,39,30,827,104,47,17,10176,ST-828 complex
+105526,Queensland,,chicken offal or meat,environmental isolate,429,712,609,612,1035,280,667,10147,
+105527,Queensland,,chicken offal or meat,environmental isolate,33,740,30,79,104,56,17,10164,ST-828 complex
+105528,Queensland,,pork offal or meat,environmental isolate,33,38,30,82,1038,43,17,10174,ST-828 complex
+105529,Victoria,,chicken offal or meat,environmental isolate,33,39,65,79,113,47,668,10166,
+105530,New South Wales,,human stool,sporadic case,147,743,159,215,820,509,367,10168,
+105531,New South Wales,,human stool,sporadic case,33,741,30,82,113,47,17,10169,ST-828 complex
+105532,Queensland,,human stool,sporadic case,33,39,30,79,1039,85,17,10172,ST-828 complex
+105533,Queensland,,human stool,sporadic case,147,742,605,434,556,482,324,10173,
+105534,Victoria,,human stool,sporadic case,540,633,378,500,630,208,377,10165,
+105535,Victoria,,human stool,sporadic case,33,39,30,79,1038,206,17,10175,ST-828 complex
+110978,,gastroenteritis,human stool,,63,223,181,254,782,581,169,8767,
